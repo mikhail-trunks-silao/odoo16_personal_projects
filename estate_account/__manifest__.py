@@ -8,7 +8,7 @@
         ],
     "external_dependencies": {},
     "author": "Mikhail Trunks Silao",
-    "website": "https://www.odevsolutions.com",
+    "website": "",
     "summary": """Real Estate Advertisement Account""",
     "description": """
         Real Estate Advertisement Account
